@@ -23,4 +23,5 @@
 ### Решение
 Диаграмма классов:
 
+![image](https://user-images.githubusercontent.com/107203406/234682219-88f9ee6f-ca11-4e26-a765-9876a93c3fc1.png)
 
